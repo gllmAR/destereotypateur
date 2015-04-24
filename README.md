@@ -55,6 +55,7 @@ ____
 ### Crédit de création 
 
 Idéation et conception médiatique : Cynthia Noury et Lucie Pagès
+
 Programmation : Guillaume Arseneault
 
 

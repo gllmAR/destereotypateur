@@ -11,7 +11,7 @@ Reproduire un système de loterie vidéos qui critiquent les stéréotypes impos
 
 Fonctionne sous le paradigme d'un automate à état fini suivant ce squelette
 
-![rollerStateMachine](documentation/RollerStates.svg)
+![rollerStateMachine](documentation/RollerStates.png)
 
 
 

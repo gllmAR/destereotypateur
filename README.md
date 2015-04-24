@@ -52,4 +52,11 @@ Pour afficher la fenêtre Max:
 
 ____
 
+### Crédit de création 
+
+Idéation et conception médiatique : Cynthia Noury et Lucie Pagès
+Programmation : Guillaume Arseneault
+
+
+
 

@@ -1,10 +1,10 @@
-#Destéréotypateur
+#Déstéréotypateur
 
  ![destereotypateur](documentation/AfficheDestereotypateur2.jpg)
 
 ### Concept
 
-Reproduire un système de loterie vidéos qui critiquent les stéréotypes imposés au genre féminin.  
+Reproduire un système de loterie vidéo qui critique les stéréotypes imposés au genre féminin.  
 
 
 ### Fonctionnement 

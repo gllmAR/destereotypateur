@@ -72,7 +72,7 @@
 					"outlettype" : [ "", "", "", "" ],
 					"patching_rect" : [ 387.44989, 177.399979, 58.0, 22.0 ],
 					"restore" : 					{
-						"master" : [ -0.223622 ],
+						"master" : [ -0.044094 ],
 						"roll_scale_XY" : [ 0.95 ],
 						"roll_scale_Z" : [ 0.315 ],
 						"scale" : [ 0.5 ]
@@ -80,7 +80,7 @@
 ,
 					"style" : "",
 					"text" : "autopattr",
-					"varname" : "u329004939"
+					"varname" : "u787006051"
 				}
 
 			}
@@ -4121,7 +4121,7 @@
 ,
 									"style" : "",
 									"text" : "autopattr",
-									"varname" : "u209004938"
+									"varname" : "u235006050"
 								}
 
 							}
@@ -6121,7 +6121,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-17",
@@ -6141,7 +6140,7 @@
 ,
 									"style" : "",
 									"text" : "autopattr",
-									"varname" : "u068005512"
+									"varname" : "u736006049"
 								}
 
 							}
@@ -6154,8 +6153,8 @@
 									"orientation" : 1,
 									"outlettype" : [ "signal", "signal", "", "float", "list" ],
 									"parameter_enable" : 1,
-									"patching_rect" : [ 695.083557, 642.133301, 136.0, 48.0 ],
-									"presentation_rect" : [ 682.167114, 670.133301, 50.0, 48.0 ],
+									"patching_rect" : [ 695.083557, 642.133301, 136.0, 34.0 ],
+									"presentation_rect" : [ 682.167114, 670.133301, 50.0, 34.0 ],
 									"saved_attribute_attributes" : 									{
 										"valueof" : 										{
 											"parameter_longname" : "sound[6]",
@@ -6183,7 +6182,7 @@
 									"outlettype" : [ "signal", "signal", "", "float", "list" ],
 									"parameter_enable" : 1,
 									"patching_rect" : [ 507.167114, 642.133301, 136.0, 48.0 ],
-									"presentation_rect" : [ 564.583557, 667.133301, 50.0, 48.0 ],
+									"presentation_rect" : [ 564.583557, 667.133301, 50.0, 34.0 ],
 									"saved_attribute_attributes" : 									{
 										"valueof" : 										{
 											"parameter_longname" : "sound[5]",
@@ -6211,7 +6210,7 @@
 									"outlettype" : [ "signal", "signal", "", "float", "list" ],
 									"parameter_enable" : 1,
 									"patching_rect" : [ 293.583557, 637.133301, 136.0, 48.0 ],
-									"presentation_rect" : [ 134.233551, 434.933319, 50.0, 48.0 ],
+									"presentation_rect" : [ 134.233551, 434.933319, 50.0, 34.0 ],
 									"saved_attribute_attributes" : 									{
 										"valueof" : 										{
 											"parameter_longname" : "sound[4]",
@@ -6238,8 +6237,8 @@
 									"orientation" : 1,
 									"outlettype" : [ "signal", "signal", "", "float", "list" ],
 									"parameter_enable" : 1,
-									"patching_rect" : [ 642.249939, 221.333328, 136.0, 48.0 ],
-									"presentation_rect" : [ 643.433533, 351.733337, 50.0, 48.0 ],
+									"patching_rect" : [ 642.249939, 221.333328, 136.0, 34.0 ],
+									"presentation_rect" : [ 643.433533, 351.733337, 50.0, 34.0 ],
 									"saved_attribute_attributes" : 									{
 										"valueof" : 										{
 											"parameter_longname" : "sound[3]",
@@ -6267,7 +6266,7 @@
 									"outlettype" : [ "signal", "signal", "", "float", "list" ],
 									"parameter_enable" : 1,
 									"patching_rect" : [ 453.833557, 221.333328, 136.0, 48.0 ],
-									"presentation_rect" : [ 466.233551, 215.733322, 50.0, 48.0 ],
+									"presentation_rect" : [ 466.233551, 215.733322, 50.0, 34.0 ],
 									"saved_attribute_attributes" : 									{
 										"valueof" : 										{
 											"parameter_longname" : "sound[2]",
@@ -7932,7 +7931,7 @@
 ,
 									"style" : "",
 									"text" : "autopattr",
-									"varname" : "u918005035"
+									"varname" : "u809006019"
 								}
 
 							}

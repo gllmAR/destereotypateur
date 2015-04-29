@@ -52,6 +52,30 @@ Pour afficher la fenêtre Max:
 
 ____
 
+### Arborescence dossier Médias
+
+* media
+	* audio
+		*  Alignement.wav
+		*  Clic.wav
+		*  PasAlignement.wav
+		*  RetourEtatNeutre.wav
+		*  Roller.wav
+	* texture
+		* background.png
+		* Bande.png
+	* video 
+		* 1.mov
+		* 2.mov
+		* 3.mov
+		* 4.mov
+		* 5.mov
+
+____
+
+
+
+
 ### Crédit de création 
 
 Idéation et conception médiatique : Cynthia Noury et Lucie Pagès

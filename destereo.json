@@ -1,0 +1,51 @@
+{
+	"pattrstorage" : 	{
+		"name" : "destereo",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"master" : [ -0.044094 ],
+					"roll_scale_XY" : [ 0.95 ],
+					"roll_scale_Z" : [ 0.315 ],
+					"scale" : [ 0.5 ],
+					"sliderMecanics::roll_speed_A" : [ 127 ],
+					"sliderMecanics::roll_speed_B" : [ 127 ],
+					"sliderMecanics::roll_speed_C" : [ 127 ],
+					"path::assetsPath-text" : [ "/Users/gllm/Documents/_gllm/RollerMedias/medias/" ],
+					"sounds::sound[2]" : [ -7.0 ],
+					"sounds::sound[3]" : [ -7.0 ],
+					"sounds::sound[1]" : [ -7.0 ],
+					"sounds::sound[4]" : [ 0.0 ],
+					"sounds::sound[5]" : [ 0.0 ],
+					"sounds::sound[6]" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"master" : [ 0.0 ],
+					"roll_scale_XY" : [ 1.5 ],
+					"roll_scale_Z" : [ 0.3 ],
+					"scale" : [  ],
+					"sliderMecanics::roll_speed_A" : [ 127 ],
+					"sliderMecanics::roll_speed_B" : [ 127 ],
+					"sliderMecanics::roll_speed_C" : [ 127 ],
+					"path::assetsPath-text" : [  ],
+					"sounds::sound[2]" : [  ],
+					"sounds::sound[3]" : [  ],
+					"sounds::sound[1]" : [  ],
+					"sounds::sound[4]" : [  ],
+					"sounds::sound[5]" : [  ],
+					"sounds::sound[6]" : [  ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
